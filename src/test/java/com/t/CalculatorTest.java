@@ -34,7 +34,7 @@ public class CalculatorTest {
 	public void divTest() {
 		
 		
-		assertEquals(3, Calculator.div(9, 3))
+		assertEquals(3, Calculator.div(9, 3));
 	}
 
 }
